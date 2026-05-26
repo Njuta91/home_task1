@@ -1,1 +1,1 @@
-export default 35
+export default 35;

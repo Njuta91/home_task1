@@ -1,1 +1,1 @@
-export default "Автоматизированному тестированию на JavaScript"
+export default "Автоматизированному тестированию на JavaScript";
